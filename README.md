@@ -1,1 +1,1 @@
-# CORS
+Fixing CORS issue.
